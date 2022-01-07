@@ -1,5 +1,5 @@
 # Pokedex_
-Reto de maquetación ![Pokemon](https://dejuata.github.io/Pokedex_/)
+Reto de maquetación [Pokemon](https://dejuata.github.io/Pokedex_/)
 
 ### Mobile
 ![](https://res.cloudinary.com/dnat0jmou/image/upload/v1641585063/mobile_yd4cvc.png)
